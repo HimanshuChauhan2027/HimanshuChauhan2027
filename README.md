@@ -2,20 +2,20 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=210&section=header&text=HIMANSHU%20CHAUHAN&fontSize=46&fontColor=FF7A45&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=55&descColor=FFB86B&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=FF7A45&center=true&vCenter=true&width=620&lines=%24+whoami;Himanshu+%E2%80%94+B.Tech+Mathematics+%26+Computing%2C+NIT+Kurukshetra;%24+cat+stack.txt;Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+RAG+%2F+LLMs;%24+echo+%24GOAL;Ship+clean+full-stack+%2B+AI+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=FF7A45&center=true&vCenter=true&width=750&lines=%24+whoami;Himanshu+Chauhan;B.Tech+Maths+and+Computing%2C+NIT+Kurukshetra;%24+cat+stack.txt;Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+RAG+%2F+LLMs;%24+echo+%24GOAL;Ship+clean+full-stack+%2B+AI+systems)](https://git.io/typing-svg)
 
 <br>
 
 <a href="mailto:chauhanhappy2027@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FF7A45" /></a>
 <a href="https://github.com/HimanshuChauhan2027"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=FF7A45" /></a>
 
-<sub>◆ NIT Kurukshetra &nbsp;|&nbsp; ◆ B.Tech Mathematics &amp; Computing &nbsp;|&nbsp; ◆ Class of 2027</sub>
+<sub>◆ NIT Kurukshetra &nbsp;|&nbsp; ◆ B.Tech Maths and Computing &nbsp;|&nbsp; ◆ Class of 2027</sub>
 
 </div>
 
 <br>
 
-<p><b>01 · ABOUT</b></p>
+<p><b>ABOUT</b></p>
 
 <table>
 <tr>
@@ -43,7 +43,7 @@ open_to:  SDE Internships · AI/ML Internships
 
 <br>
 
-<p><b>02 · TECH STACK</b></p>
+<p><b>TECH STACK</b></p>
 
 <table>
 <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,c" /></td></tr>
@@ -64,7 +64,7 @@ open_to:  SDE Internships · AI/ML Internships
 
 <br>
 
-<p><b>03 · EXPERTISE</b></p>
+<p><b>EXPERTISE</b></p>
 
 | Domain | Details |
 |---|---|
@@ -76,7 +76,7 @@ open_to:  SDE Internships · AI/ML Internships
 
 <br>
 
-<p><b>04 · FEATURED PROJECTS</b></p>
+<p><b>FEATURED PROJECTS</b></p>
 
 <details open>
 <summary><b>🎟️&nbsp; EventFlow</b> — Campus Event Management Platform</summary>
@@ -116,7 +116,7 @@ AI quiz platform generating structured MCQs by topic, difficulty, and language.
 
 <br>
 
-<p><b>05 · ACHIEVEMENTS</b></p>
+<p><b>ACHIEVEMENTS</b></p>
 
 <div align="center">
 
@@ -131,18 +131,7 @@ AI quiz platform generating structured MCQs by topic, difficulty, and language.
 
 <br>
 
-<p><b>06 · EDUCATION</b></p>
-
-<div align="center">
-
-![Education](https://img.shields.io/badge/B.Tech-Mathematics%20%26%20Computing%2C%20NIT%20Kurukshetra-161B22?style=for-the-badge)
-![Cert](https://img.shields.io/badge/Intro%20to%20AI-IIT%20Madras%20Summer%20School%20%2724-161B22?style=for-the-badge)
-
-</div>
-
-<br>
-
-<p><b>07 · ACTIVITY</b></p>
+<p><b>ACTIVITY</b></p>
 
 <div align="center">
 
