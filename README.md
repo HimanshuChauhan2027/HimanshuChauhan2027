@@ -1,7 +1,6 @@
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=210&section=header&text=HIMANSHU%20CHAUHAN&fontSize=46&fontColor=FF7A45&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Generative%20AI%20Engineer&descAlignY=55&descColor=FFB86B&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=210&section=header&text=HIMANSHU%20CHAUHAN&fontSize=46&fontColor=FF7A45&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=55&descColor=FFB86B&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=FF7A45&center=true&vCenter=true&width=620&lines=%24+whoami;Himanshu+%E2%80%94+B.Tech+Math+%26+Computing%2C+NIT+Kurukshetra;%24+cat+stack.txt;Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+RAG+%2F+LLMs;%24+echo+%24GOAL;Ship+clean+full-stack+%2B+AI+systems)](https://git.io/typing-svg)
 
@@ -16,16 +15,16 @@
 
 <br>
 
-## `01` &nbsp;About
+<p><b>01 · ABOUT</b></p>
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-Pre-final year B.Tech student building full-stack platforms and Generative AI / RAG systems. Competitive programmer with **1000+ DSA problems solved** and a **Codeforces Specialist** rating — I care about systems that run fast and read clean.
+Pre-final year B.Tech student building full-stack platforms and AI/ML-driven systems. Competitive programmer with **1000+ DSA problems solved** and a **Codeforces Specialist** rating — I care about systems that run fast and read clean.
 
 ```yaml
-role:     Full-Stack Developer + Generative AI Engineer
+role:     Full-Stack Developer + AI/ML Engineer
 domain:   Campus platforms · Document AI / RAG · Ed-tech
 open_to:  SDE Internships · AI/ML Internships
 ```
@@ -44,7 +43,7 @@ open_to:  SDE Internships · AI/ML Internships
 
 <br>
 
-## `02` &nbsp;Tech Stack
+<p><b>02 · TECH STACK</b></p>
 
 <table>
 <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,c" /></td></tr>
@@ -65,19 +64,19 @@ open_to:  SDE Internships · AI/ML Internships
 
 <br>
 
-## `03` &nbsp;Expertise
+<p><b>03 · EXPERTISE</b></p>
 
-| Domain | Level | Details |
-|---|:---:|---|
-| Full-Stack Web Development | ●●●●○ | Next.js/React frontends, Node.js/Express + FastAPI backends, role-based auth |
-| Generative AI / RAG | ●●●●○ | Document parsing, embeddings, FAISS vector search, multi-provider LLM failover |
-| Database Design | ●●●○○ | PostgreSQL, MongoDB, SQLite schema design; Sequelize & Mongoose ORMs |
-| Data Structures & Algorithms | ●●●●○ | 1000+ problems solved · Codeforces Specialist (1575) |
-| Machine Learning | ●●○○○ | Scikit-learn, TensorFlow, OpenCV fundamentals |
+| Domain | Details |
+|---|---|
+| Full-Stack Web Development | Next.js/React frontends, Node.js/Express + FastAPI backends, role-based auth |
+| AI/ML &amp; RAG | Document parsing, embeddings, FAISS vector search, multi-provider LLM failover |
+| Database Design | PostgreSQL, MongoDB, SQLite schema design; Sequelize & Mongoose ORMs |
+| Data Structures & Algorithms | 1000+ problems solved · Codeforces Specialist (1575) |
+| Machine Learning | Scikit-learn, TensorFlow, OpenCV fundamentals |
 
 <br>
 
-## `04` &nbsp;Featured Projects
+<p><b>04 · FEATURED PROJECTS</b></p>
 
 <details open>
 <summary><b>🎟️&nbsp; EventFlow</b> — Campus Event Management Platform</summary>
@@ -117,7 +116,7 @@ AI quiz platform generating structured MCQs by topic, difficulty, and language.
 
 <br>
 
-## `05` &nbsp;Timeline
+<p><b>05 · TIMELINE</b></p>
 
 ```text
 Jun 2026 │ EventFlow                     Next.js · TypeScript · Tailwind
@@ -132,7 +131,7 @@ Sep 2025 │ AI-Powered Quiz Generator     Node.js · Express · Gemini API · J
 
 <br>
 
-## `06` &nbsp;Achievements
+<p><b>06 · ACHIEVEMENTS</b></p>
 
 <div align="center">
 
@@ -147,7 +146,7 @@ Sep 2025 │ AI-Powered Quiz Generator     Node.js · Express · Gemini API · J
 
 <br>
 
-## `07` &nbsp;Education &amp; Coding Profiles
+<p><b>07 · EDUCATION &amp; CODING PROFILES</b></p>
 
 <div align="center">
 
@@ -161,30 +160,7 @@ Sep 2025 │ AI-Powered Quiz Generator     Node.js · Express · Gemini API · J
 
 <br>
 
-## `08` &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HimanshuChauhan2027&show_icons=true&hide_border=true&bg_color=161B22&title_color=FF7A45&icon_color=FFB86B&text_color=c9d1d9&ring_color=FF7A45" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuChauhan2027&hide_border=true&background=161B22&ring=FF7A45&fire=FFB86B&currStreakLabel=FF7A45&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuChauhan2027&layout=compact&hide_border=true&bg_color=161B22&title_color=FF7A45&text_color=c9d1d9" width="60%" />
-
-</div>
-
-<br>
-
-## `09` &nbsp;Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=HimanshuChauhan2027&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8)
-
-</div>
-
-<br>
-
-## `10` &nbsp;Activity
+<p><b>08 · ACTIVITY</b></p>
 
 <div align="center">
 
@@ -204,3 +180,4 @@ Sep 2025 │ AI-Powered Quiz Generator     Node.js · Express · Gemini API · J
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=110&section=footer)
 
 </div>
+
