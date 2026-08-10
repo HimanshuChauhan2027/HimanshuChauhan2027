@@ -15,7 +15,7 @@
 
 <br>
 
-<p><b>ABOUT</b></p>
+![ABOUT](https://img.shields.io/badge/ABOUT-FF7A45?style=for-the-badge&logoColor=161B22)
 
 <table>
 <tr>
@@ -43,7 +43,7 @@ open_to:  SDE Internships · AI/ML Internships
 
 <br>
 
-<p><b>TECH STACK</b></p>
+![TECH STACK](https://img.shields.io/badge/TECH%20STACK-FF7A45?style=for-the-badge&logoColor=161B22)
 
 <table>
 <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,c" /></td></tr>
@@ -64,7 +64,7 @@ open_to:  SDE Internships · AI/ML Internships
 
 <br>
 
-<p><b>EXPERTISE</b></p>
+![EXPERTISE](https://img.shields.io/badge/EXPERTISE-FF7A45?style=for-the-badge&logoColor=161B22)
 
 | Domain | Details |
 |---|---|
@@ -76,7 +76,7 @@ open_to:  SDE Internships · AI/ML Internships
 
 <br>
 
-<p><b>FEATURED PROJECTS</b></p>
+![FEATURED PROJECTS](https://img.shields.io/badge/FEATURED%20PROJECTS-FF7A45?style=for-the-badge&logoColor=161B22)
 
 <details open>
 <summary><b>🎟️&nbsp; EventFlow</b> — Campus Event Management Platform</summary>
@@ -116,7 +116,7 @@ AI quiz platform generating structured MCQs by topic, difficulty, and language.
 
 <br>
 
-<p><b>ACHIEVEMENTS</b></p>
+![ACHIEVEMENTS](https://img.shields.io/badge/ACHIEVEMENTS-FF7A45?style=for-the-badge&logoColor=161B22)
 
 <div align="center">
 
@@ -131,7 +131,7 @@ AI quiz platform generating structured MCQs by topic, difficulty, and language.
 
 <br>
 
-<p><b>ACTIVITY</b></p>
+![ACTIVITY](https://img.shields.io/badge/ACTIVITY-FF7A45?style=for-the-badge&logoColor=161B22)
 
 <div align="center">
 
