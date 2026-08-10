@@ -162,4 +162,3 @@ AI quiz platform generating structured MCQs by topic, difficulty, and language.
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=110&section=footer)
 
 </div>
-
