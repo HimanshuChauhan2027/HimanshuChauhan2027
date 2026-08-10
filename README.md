@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=210&section=header&text=HIMANSHU%20CHAUHAN&fontSize=46&fontColor=FF7A45&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=55&descColor=FFB86B&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=FF7A45&center=true&vCenter=true&width=750&lines=%24+whoami;Himanshu+Chauhan;B.Tech+Maths+and+Computing%2C+NIT+Kurukshetra;%24+cat+stack.txt;Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+RAG+%2F+LLMs;%24+echo+%24GOAL;Ship+clean+full-stack+%2B+AI+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=1500&pause=500&color=FF7A45&center=true&vCenter=true&width=750&lines=%24+whoami;Himanshu+Chauhan;B.Tech+Maths+and+Computing%2C+NIT+Kurukshetra;%24+cat+stack.txt;Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+RAG+%2F+LLMs;%24+echo+%24GOAL;Ship+clean+full-stack+%2B+AI+systems)](https://git.io/typing-svg)
 
 <br>
 
