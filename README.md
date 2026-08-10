@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=210&section=header&text=HIMANSHU%20CHAUHAN&fontSize=46&fontColor=FF7A45&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=55&descColor=FFB86B&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=FF7A45&center=true&vCenter=true&width=620&lines=%24+whoami;Himanshu+%E2%80%94+B.Tech+Math+%26+Computing%2C+NIT+Kurukshetra;%24+cat+stack.txt;Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+RAG+%2F+LLMs;%24+echo+%24GOAL;Ship+clean+full-stack+%2B+AI+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=FF7A45&center=true&vCenter=true&width=620&lines=%24+whoami;Himanshu+%E2%80%94+B.Tech+Mathematics+%26+Computing%2C+NIT+Kurukshetra;%24+cat+stack.txt;Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+RAG+%2F+LLMs;%24+echo+%24GOAL;Ship+clean+full-stack+%2B+AI+systems)](https://git.io/typing-svg)
 
 <br>
 
@@ -116,22 +116,7 @@ AI quiz platform generating structured MCQs by topic, difficulty, and language.
 
 <br>
 
-<p><b>05 · TIMELINE</b></p>
-
-```text
-Jun 2026 │ EventFlow                     Next.js · TypeScript · Tailwind
-         │ Built responsive event platform with Student/Organizer/Admin workflows
-         │
-Mar 2026 │ DocQuery                      FastAPI · RAG · FAISS · LLMs
-         │ Engineered RAG pipeline w/ HuggingFace embeddings + semantic retrieval
-         │
-Sep 2025 │ AI-Powered Quiz Generator     Node.js · Express · Gemini API · JWT
-         │ Built REST APIs for quiz management, attempts & performance tracking
-```
-
-<br>
-
-<p><b>06 · ACHIEVEMENTS</b></p>
+<p><b>05 · ACHIEVEMENTS</b></p>
 
 <div align="center">
 
@@ -146,21 +131,18 @@ Sep 2025 │ AI-Powered Quiz Generator     Node.js · Express · Gemini API · J
 
 <br>
 
-<p><b>07 · EDUCATION &amp; CODING PROFILES</b></p>
+<p><b>06 · EDUCATION</b></p>
 
 <div align="center">
 
 ![Education](https://img.shields.io/badge/B.Tech-Mathematics%20%26%20Computing%2C%20NIT%20Kurukshetra-161B22?style=for-the-badge)
 ![Cert](https://img.shields.io/badge/Intro%20to%20AI-IIT%20Madras%20Summer%20School%20%2724-161B22?style=for-the-badge)
 
-![LeetCode](https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FF7A45)
-![Codeforces](https://img.shields.io/badge/Codeforces-161B22?style=for-the-badge&logo=codeforces&logoColor=FF7A45)
-
 </div>
 
 <br>
 
-<p><b>08 · ACTIVITY</b></p>
+<p><b>07 · ACTIVITY</b></p>
 
 <div align="center">
 
