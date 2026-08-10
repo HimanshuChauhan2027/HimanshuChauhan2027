@@ -1,232 +1,206 @@
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=slice&color=0:0A192F,100:64FFDA&height=200&section=header&text=HIMANSHU%20CHAUHAN&fontSize=48&fontColor=64FFDA&fontAlignY=35&desc=Full-Stack%20%2B%20Generative%20AI%20Engineer&descAlignY=55&descColor=00B4D8&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=210&section=header&text=HIMANSHU%20CHAUHAN&fontSize=46&fontColor=FF7A45&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Generative%20AI%20Engineer&descAlignY=55&descColor=FFB86B&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=%24+whoami;Himanshu+Chauhan+%E2%80%94+B.Tech+Math+%26+Computing%2C+NITKKR;%24+cat+stack.txt;Next.js+%7C+Node.js+%7C+FastAPI+%7C+RAG+%2F+LLMs+%2F+FAISS;%24+echo+%24GOAL;Ship+clean+full-stack+%2B+AI+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=FF7A45&center=true&vCenter=true&width=620&lines=%24+whoami;Himanshu+%E2%80%94+B.Tech+Math+%26+Computing%2C+NIT+Kurukshetra;%24+cat+stack.txt;Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+RAG+%2F+LLMs;%24+echo+%24GOAL;Ship+clean+full-stack+%2B+AI+systems)](https://git.io/typing-svg)
 
-![Degree](https://img.shields.io/badge/B.Tech-Mathematics%20%26%20Computing-0A192F?style=flat-square&labelColor=000000&color=64FFDA)
-![University](https://img.shields.io/badge/NIT-Kurukshetra-0A192F?style=flat-square&labelColor=000000&color=00B4D8)
-![Grad](https://img.shields.io/badge/Graduating-2027-0A192F?style=flat-square&labelColor=000000&color=64FFDA)
+<br>
 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=64FFDA&labelColor=000000)](mailto:chauhanhappy2027@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=64FFDA&labelColor=000000)](https://github.com/HimanshuChauhan2027)
+<a href="mailto:chauhanhappy2027@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FF7A45" /></a>
+<a href="https://github.com/HimanshuChauhan2027"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=FF7A45" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=HimanshuChauhan2027&color=64ffda&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/HimanshuChauhan2027?color=64ffda&style=flat-square&label=FOLLOWERS&labelColor=000000)
-![Stars](https://img.shields.io/github/stars/HimanshuChauhan2027?color=64ffda&style=flat-square&label=STARS&labelColor=000000)
+<sub>◆ NIT Kurukshetra &nbsp;|&nbsp; ◆ B.Tech Mathematics &amp; Computing &nbsp;|&nbsp; ◆ Class of 2027</sub>
 
 </div>
 
----
+<br>
 
-### `$ cat about.md`
+## `01` &nbsp;About
 
-B.Tech Mathematics and Computing student at NIT Kurukshetra (Class of 2027), building full-stack platforms and Generative AI / RAG systems. Competitive programmer with 1000+ DSA problems solved and a Specialist rating on Codeforces — I like systems that are both fast to run and clean to read.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-```bash
-ROLE     : Full-Stack Developer + Generative AI Engineer (Student)
-EXP      : Pre-final year, B.Tech M&C @ NIT Kurukshetra
-DOMAIN   : Campus platforms, Document AI / RAG, Ed-tech tooling
-STACK    : Next.js, Node.js, FastAPI, PostgreSQL, MongoDB, RAG/LLMs
-OPEN_TO  : SDE Internships | AI/ML Internships
+Pre-final year B.Tech student building full-stack platforms and Generative AI / RAG systems. Competitive programmer with **1000+ DSA problems solved** and a **Codeforces Specialist** rating — I care about systems that run fast and read clean.
+
+```yaml
+role:     Full-Stack Developer + Generative AI Engineer
+domain:   Campus platforms · Document AI / RAG · Ed-tech
+open_to:  SDE Internships · AI/ML Internships
 ```
 
----
+</td>
+<td width="40%" valign="top">
 
-### `$ ls tech-stack/`
+**Currently**
+- 🧠 Learning production-grade RAG pipeline design
+- 🏗️ Building AI-driven full-stack projects
+- 🔭 Exploring the full-stack × GenAI intersection
 
-**Languages**
-![](https://skillicons.dev/icons?i=py,cpp,java,js,ts,c)
+</td>
+</tr>
+</table>
 
-**Web Dev**
-![](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css)
+<br>
 
-**Databases**
-![](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)
+## `02` &nbsp;Tech Stack
 
-**AI / ML**
-![](https://skillicons.dev/icons?i=tensorflow,opencv,pytorch)
+<table>
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,c" /></td></tr>
+<tr><td><b>Web Dev</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css" /></td></tr>
+<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" /></td></tr>
+<tr><td><b>AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" /></td></tr>
+<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" /></td></tr>
+</table>
 
-**Tools**
-![](https://skillicons.dev/icons?i=git,github,vscode,docker,linux)
+<div align="center">
 
----
+![Full-Stack](https://img.shields.io/badge/Full--Stack%20Development-161B22?style=flat-square&logo=nextdotjs&logoColor=FF7A45)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20LLM%20Pipelines-161B22?style=flat-square&logo=openai&logoColor=FF7A45)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-161B22?style=flat-square&logo=leetcode&logoColor=FF7A45)
+![DBMS](https://img.shields.io/badge/Database%20Design-161B22?style=flat-square&logo=postgresql&logoColor=FF7A45)
 
-### `$ cat specialties.txt`
+</div>
 
-![Full-Stack](https://img.shields.io/badge/Full--Stack%20Development-000000?style=flat-square&logo=nextdotjs&logoColor=64FFDA&color=0A192F)
-![RAG](https://img.shields.io/badge/RAG%20%2F%20LLM%20Pipelines-000000?style=flat-square&logo=openai&logoColor=64FFDA&color=0A192F)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=flat-square&logo=leetcode&logoColor=64FFDA&color=0A192F)
-![DBMS](https://img.shields.io/badge/Database%20Design-000000?style=flat-square&logo=postgresql&logoColor=64FFDA&color=0A192F)
+<br>
 
----
+## `03` &nbsp;Expertise
 
-### `$ cat expertise.table`
-
-| Domain | Proficiency | Details |
+| Domain | Level | Details |
 |---|:---:|---|
-| Full-Stack Web Development | ⬢⬢⬢⬢⬡ | Next.js/React frontends, Node.js/Express + FastAPI backends, role-based auth flows |
-| Generative AI / RAG | ⬢⬢⬢⬢⬡ | Document parsing, chunking, embeddings, FAISS vector search, multi-provider LLM failover |
-| Database Design | ⬢⬢⬢⬡⬡ | Schema design across PostgreSQL, MongoDB, SQLite; Sequelize & Mongoose ORMs |
-| Data Structures & Algorithms | ⬢⬢⬢⬢⬡ | 1000+ problems solved, Codeforces Specialist (1575) |
-| Machine Learning | ⬢⬢⬡⬡⬡ | Scikit-learn, TensorFlow, OpenCV fundamentals |
+| Full-Stack Web Development | ●●●●○ | Next.js/React frontends, Node.js/Express + FastAPI backends, role-based auth |
+| Generative AI / RAG | ●●●●○ | Document parsing, embeddings, FAISS vector search, multi-provider LLM failover |
+| Database Design | ●●●○○ | PostgreSQL, MongoDB, SQLite schema design; Sequelize & Mongoose ORMs |
+| Data Structures & Algorithms | ●●●●○ | 1000+ problems solved · Codeforces Specialist (1575) |
+| Machine Learning | ●●○○○ | Scikit-learn, TensorFlow, OpenCV fundamentals |
 
----
+<br>
 
-### `$ ls projects/ --featured`
+## `04` &nbsp;Featured Projects
 
 <details open>
-<summary><b>🎟 EventFlow</b> — Campus Event Management Platform</summary>
+<summary><b>🎟️&nbsp; EventFlow</b> — Campus Event Management Platform</summary>
 <br>
 
 Full-stack campus event platform with role-based dashboards for Students, Organizers, and Admins.
 
-| | |
-|---|---|
-| **Stack** | Next.js, React, TypeScript, Tailwind CSS, React Hook Form, Zod |
-| **Scale** | 3 role-based workflows, full auth + validation layer |
-| **Impact** | Reusable component system for event discovery & management |
+| Stack | Scale | Impact |
+|---|---|---|
+| Next.js, React, TypeScript, Tailwind, RHF + Zod | 3 role-based workflows, full auth + validation | Reusable component system for event discovery |
 
 </details>
 
 <details>
-<summary><b>📄 DocQuery</b> — RAG-Based Document Q&A System</summary>
+<summary><b>📄&nbsp; DocQuery</b> — RAG-Based Document Q&A System</summary>
 <br>
 
 AI document Q&A platform supporting PDF, DOCX, PPTX, and TXT with a full retrieval-augmented generation pipeline.
 
-| | |
-|---|---|
-| **Stack** | FastAPI, HuggingFace Embeddings, FAISS, Groq/OpenAI/Gemini/OpenRouter/Ollama |
-| **Scale** | Multi-provider LLM integration with automatic failover |
-| **Impact** | Source-cited, context-aware answers with conversation history |
+| Stack | Scale | Impact |
+|---|---|---|
+| FastAPI, HuggingFace Embeddings, FAISS, multi-LLM | Automatic failover across 5 providers | Source-cited, context-aware answers |
 
 </details>
 
 <details>
-<summary><b>🧠 AI-Powered Quiz Generator</b> — Generative AI & Full-Stack</summary>
+<summary><b>🧠&nbsp; AI-Powered Quiz Generator</b> — Generative AI & Full-Stack</summary>
 <br>
 
 AI quiz platform generating structured MCQs by topic, difficulty, and language.
 
-| | |
-|---|---|
-| **Stack** | Next.js, React, Node.js, Express, Sequelize, SQLite, Google Gemini |
-| **Scale** | JWT auth, attempt tracking, leaderboards, user statistics |
-| **Impact** | Full REST API layer for quiz lifecycle management |
+| Stack | Scale | Impact |
+|---|---|---|
+| Next.js, Node.js, Express, Sequelize, SQLite, Gemini | JWT auth, attempts, leaderboards | Full REST API for quiz lifecycle |
 
 </details>
 
----
+<br>
 
-### `$ cat timeline.log --reverse`
+## `05` &nbsp;Timeline
 
-**Jun 2026 — EventFlow**
-`Next.js` `TypeScript` `Tailwind` `Role-Based Auth`
-- Built responsive event platform with Student/Organizer/Admin workflows
-- Implemented auth flows, form validation, and reusable UI components
-
-**Mar 2026 — DocQuery**
-`FastAPI` `RAG` `FAISS` `LLMs`
-- Engineered a RAG pipeline with HuggingFace embeddings and semantic retrieval
-- Integrated 5 LLM providers with automatic failover and source citations
-
-**Sep 2025 — AI-Powered Quiz Generator**
-`Node.js` `Express` `Gemini API` `JWT`
-- Built REST APIs for quiz management, attempts, and performance tracking
-- Implemented JWT auth, bcrypt hashing, and leaderboard systems
-
----
-
-<div align="center">
-
-### `$ cat achievements.md`
-
-| Achievement | Detail |
-|:---:|:---:|
-| 🏆 1000+ DSA Problems Solved | LeetCode & Codeforces, optimized solutions |
-| ⭐ Specialist — Codeforces | Rating: 1575 |
-| 🥇 Global Rank 76 | CodeChef Starters 200 (Rated) |
-| 🥈 Global Rank 181 | Codeforces Round 1057 (Div. 2) |
-| 🎖 2nd Place | Anant Coders Carnival, Phase-2 |
-
-</div>
-
----
-
-<div align="center">
-
-![Education](https://img.shields.io/badge/B.Tech-Mathematics%20%26%20Computing%2C%20NIT%20Kurukshetra-000000?style=for-the-badge&color=0A192F)
-![Cert](https://img.shields.io/badge/Intro%20to%20AI-IIT%20Madras%20Summer%20School%20%2724-000000?style=for-the-badge&color=0A192F)
-
-### `$ cat coding-profiles.txt`
-
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=64FFDA&labelColor=000000)
-![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=64FFDA&labelColor=000000)
-
-</div>
-
----
-
-### `$ ./analytics.sh --run`
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=HimanshuChauhan2027&show_icons=true&hide_border=true&bg_color=0A192F&title_color=64FFDA&icon_color=00B4D8&text_color=c9d1d9&ring_color=64FFDA)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuChauhan2027&hide_border=true&background=0A192F&ring=64FFDA&fire=00B4D8&currStreakLabel=64FFDA&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8892B0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuChauhan2027&layout=compact&hide_border=true&bg_color=0A192F&title_color=64FFDA&text_color=c9d1d9)
-
-</div>
-
----
-
-### `$ open trophies/`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=HimanshuChauhan2027&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8)
-
-</div>
-
----
-
-### `$ tail -f activity.log`
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimanshuChauhan2027&bg_color=0A192F&color=64FFDA&line=00B4D8&point=c9d1d9&area=true&hide_border=true)
-
-</div>
-
----
-
-### `$ cat current-focus.yaml`
-
-```yaml
-learning:
-  - Advanced backend architecture & database design
-  - Production-grade RAG pipeline design
-building:
-  - AI-driven full-stack projects
-exploring:
-  - Full-stack + Generative AI intersection
-open_to:
-  - SDE Internships
-  - AI/ML Internships
+```text
+Jun 2026 │ EventFlow                     Next.js · TypeScript · Tailwind
+         │ Built responsive event platform with Student/Organizer/Admin workflows
+         │
+Mar 2026 │ DocQuery                      FastAPI · RAG · FAISS · LLMs
+         │ Engineered RAG pipeline w/ HuggingFace embeddings + semantic retrieval
+         │
+Sep 2025 │ AI-Powered Quiz Generator     Node.js · Express · Gemini API · JWT
+         │ Built REST APIs for quiz management, attempts & performance tracking
 ```
 
----
+<br>
+
+## `06` &nbsp;Achievements
 
 <div align="center">
 
-### `$ ./connect.sh`
+| 🏆 | 🥇 | 🥈 | 🎖️ |
+|:---:|:---:|:---:|:---:|
+| **1000+** DSA Problems | **Global Rank 76** | **Global Rank 181** | **2nd Place** |
+| LeetCode + Codeforces | CodeChef Starters 200 | Codeforces Round 1057 | Anant Coders Carnival |
 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=64FFDA&labelColor=000000)](mailto:chauhanhappy2027@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=64FFDA&labelColor=000000)](https://github.com/HimanshuChauhan2027)
+**Codeforces Specialist** · Rating 1575
 
-*"Optimized solutions, one commit at a time."*
+</div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:64FFDA&height=120&section=footer)
+<br>
+
+## `07` &nbsp;Education &amp; Coding Profiles
+
+<div align="center">
+
+![Education](https://img.shields.io/badge/B.Tech-Mathematics%20%26%20Computing%2C%20NIT%20Kurukshetra-161B22?style=for-the-badge)
+![Cert](https://img.shields.io/badge/Intro%20to%20AI-IIT%20Madras%20Summer%20School%20%2724-161B22?style=for-the-badge)
+
+![LeetCode](https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FF7A45)
+![Codeforces](https://img.shields.io/badge/Codeforces-161B22?style=for-the-badge&logo=codeforces&logoColor=FF7A45)
+
+</div>
+
+<br>
+
+## `08` &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HimanshuChauhan2027&show_icons=true&hide_border=true&bg_color=161B22&title_color=FF7A45&icon_color=FFB86B&text_color=c9d1d9&ring_color=FF7A45" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuChauhan2027&hide_border=true&background=161B22&ring=FF7A45&fire=FFB86B&currStreakLabel=FF7A45&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuChauhan2027&layout=compact&hide_border=true&bg_color=161B22&title_color=FF7A45&text_color=c9d1d9" width="60%" />
+
+</div>
+
+<br>
+
+## `09` &nbsp;Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=HimanshuChauhan2027&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8)
+
+</div>
+
+<br>
+
+## `10` &nbsp;Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimanshuChauhan2027&bg_color=161B22&color=FF7A45&line=FFB86B&point=c9d1d9&area=true&hide_border=true)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="mailto:chauhanhappy2027@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FF7A45" /></a>
+<a href="https://github.com/HimanshuChauhan2027"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=FF7A45" /></a>
+
+<i>"Optimized solutions, one commit at a time."</i>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=110&section=footer)
 
 </div>
