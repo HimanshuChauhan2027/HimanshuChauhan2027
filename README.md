@@ -21,7 +21,7 @@
 <tr>
 <td width="60%" valign="top">
 
-Pre-final year B.Tech student building full-stack platforms and AI/ML-driven systems. Competitive programmer with **1000+ DSA problems solved** and a **Codeforces Specialist** rating — I care about systems that run fast and read clean.
+Final year B.Tech student building full-stack platforms and AI/ML-driven systems. Competitive programmer with **1000+ DSA problems solved** and a **Codeforces Specialist** rating — I care about systems that run fast and read clean.
 
 ```yaml
 role:     Full-Stack Developer + AI/ML Engineer
