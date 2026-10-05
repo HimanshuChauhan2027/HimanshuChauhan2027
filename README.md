@@ -1,15 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=210&section=header&text=HIMANSHU%20CHAUHAN&fontSize=46&fontColor=FF7A45&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=55&descColor=FFB86B&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=1500&pause=500&color=FF7A45&center=true&vCenter=true&width=750&lines=%24+whoami;Himanshu+Chauhan;B.Tech+Maths+and+Computing%2C+NIT+Kurukshetra;%24+cat+stack.txt;Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+RAG+%2F+LLMs;%24+echo+%24GOAL;Ship+clean+full-stack+%2B+AI+systems)](https://git.io/typing-svg)
-
-<br>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=210&section=header&text=HIMANSHU%20CHAUHAN&fontSize=46&fontColor=FF7A45&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20%C2%B7%20Generative%20AI&descAlignY=55&descColor=FFB86B&animation=fadeIn)
 
 <a href="mailto:chauhanhappy2027@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FF7A45" /></a>
 <a href="https://github.com/HimanshuChauhan2027"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=FF7A45" /></a>
 
-<sub>◆ NIT Kurukshetra &nbsp;|&nbsp; ◆ B.Tech Maths and Computing &nbsp;|&nbsp; ◆ Class of 2027</sub>
+<sub>◆ NIT Kurukshetra &nbsp;|&nbsp; ◆ B.Tech Mathematics & Computing &nbsp;|&nbsp; ◆ Class of 2027</sub>
 
 </div>
 
@@ -21,12 +17,12 @@
 <tr>
 <td width="60%" valign="top">
 
-Final year B.Tech student building full-stack platforms and AI/ML-driven systems. Competitive programmer with **1000+ DSA problems solved** and a **Codeforces Specialist** rating — I care about systems that run fast and read clean.
+Final-year B.Tech student building real-time backend systems, full-stack platforms and AI-powered applications. Competitive programmer with **800+ DSA problems solved** and a **Codeforces Specialist** rating, I care about systems that run fast and read clean.
 
 ```yaml
-role:     Full-Stack Developer + AI/ML Engineer
-domain:   Campus platforms · Document AI / RAG · Ed-tech
-open_to:  SDE Internships · AI/ML Internships
+role:     Full-Stack Developer
+focus:    Backend · Real-Time Systems · Generative AI / RAG
+open_to:  Software Engineering opportunities
 ```
 
 </td>
@@ -34,8 +30,7 @@ open_to:  SDE Internships · AI/ML Internships
 
 **Currently**
 - 🧠 Learning production-grade RAG pipeline design
-- 🏗️ Building AI-driven full-stack projects
-- 🔭 Exploring the full-stack × GenAI intersection
+- 🔭 Exploring distributed systems and the full-stack × GenAI intersection
 
 </td>
 </tr>
@@ -46,71 +41,69 @@ open_to:  SDE Internships · AI/ML Internships
 ![TECH STACK](https://img.shields.io/badge/TECH%20STACK-FF7A45?style=for-the-badge&logoColor=161B22)
 
 <table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,c" /></td></tr>
-<tr><td><b>Web Dev</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css" /></td></tr>
-<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" /></td></tr>
-<tr><td><b>AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" /></td></tr>
-<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" /></td></tr>
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=js,py,cpp,java,c" /></td></tr>
+<tr><td><b>Web Dev</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,html,css" /></td></tr>
+<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres,sqlite" /></td></tr>
+<tr><td><b>AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=tensorflow" /> &nbsp;LLMs · RAG · Embeddings · FAISS · LangChain</td></tr>
+<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" /></td></tr>
 </table>
-
-<div align="center">
-
-![Full-Stack](https://img.shields.io/badge/Full--Stack%20Development-161B22?style=flat-square&logo=nextdotjs&logoColor=FF7A45)
-![RAG](https://img.shields.io/badge/RAG%20%2F%20LLM%20Pipelines-161B22?style=flat-square&logo=openai&logoColor=FF7A45)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-161B22?style=flat-square&logo=leetcode&logoColor=FF7A45)
-![DBMS](https://img.shields.io/badge/Database%20Design-161B22?style=flat-square&logo=postgresql&logoColor=FF7A45)
-
-</div>
-
-<br>
-
-![EXPERTISE](https://img.shields.io/badge/EXPERTISE-FF7A45?style=for-the-badge&logoColor=161B22)
-
-| Domain | Details |
-|---|---|
-| Full-Stack Web Development | Next.js/React frontends, Node.js/Express + FastAPI backends, role-based auth |
-| AI/ML &amp; RAG | Document parsing, embeddings, FAISS vector search, multi-provider LLM failover |
-| Database Design | PostgreSQL, MongoDB, SQLite schema design; Sequelize & Mongoose ORMs |
-| Data Structures & Algorithms | 1000+ problems solved · Codeforces Specialist (1575) |
-| Machine Learning | Scikit-learn, TensorFlow, OpenCV fundamentals |
 
 <br>
 
 ![FEATURED PROJECTS](https://img.shields.io/badge/FEATURED%20PROJECTS-FF7A45?style=for-the-badge&logoColor=161B22)
 
 <details open>
-<summary><b>🎟️&nbsp; EventFlow</b> — Campus Event Management Platform</summary>
+<summary><b>🔨&nbsp; BidMate</b> — Real-Time Auction & Bidding Platform</summary>
 <br>
 
-Full-stack campus event platform with role-based dashboards for Students, Organizers, and Admins.
+A real-time auction platform with auction creation, live bidding and instant bid updates synchronized across users.
+
+- **Live bidding:** Socket.IO keeps bid changes in sync for every connected user
+- **Concurrency-safe:** proxy bidding and anti-sniping built on MongoDB transactions, so concurrent bids never corrupt auction state
+- **Auction lifecycle:** scheduled and managed with BullMQ and Redis
+- **Load-tested with k6:** 150 concurrent users, ~2,400 HTTP requests, 0% failures, 100% successful checks
 
 | Stack | Scale | Impact |
 |---|---|---|
-| Next.js, React, TypeScript, Tailwind, RHF + Zod | 3 role-based workflows, full auth + validation | Reusable component system for event discovery |
+| React, Node.js, Express, MongoDB, Socket.IO, Redis, BullMQ, Cloudinary, k6 | 150 concurrent users, ~2,400 requests | 0% HTTP request failures |
+
+🔗 [Repository](https://github.com/HimanshuChauhan2027/REPO_NAME)
 
 </details>
 
-<details>
+<details open>
 <summary><b>📄&nbsp; DocQuery</b> — RAG-Based Document Q&A System</summary>
 <br>
 
-AI document Q&A platform supporting PDF, DOCX, PPTX, and TXT with a full retrieval-augmented generation pipeline.
+A PDF question-answering system that gives context-aware answers with document and page-level source references.
+
+- **Semantic search:** Hugging Face `all-mpnet-base-v2` embeddings with FAISS similarity search to retrieve the Top-K relevant chunks
+- **End-to-end pipeline:** PyMuPDF parsing, recursive text chunking, then answer generation with Groq/Gemini LLMs
+- **Reliable:** automatic model fallback between LLM providers
 
 | Stack | Scale | Impact |
 |---|---|---|
-| FastAPI, HuggingFace Embeddings, FAISS, multi-LLM | Automatic failover across 5 providers | Source-cited, context-aware answers |
+| Python, LangChain, Streamlit, FAISS, Hugging Face, PyMuPDF, Groq/Gemini | Top-K retrieval over document chunks | Source-cited, page-level answers |
+
+🔗 [Repository](https://github.com/HimanshuChauhan2027/REPO_NAME)
 
 </details>
 
-<details>
-<summary><b>🧠&nbsp; AI-Powered Quiz Generator</b> — Generative AI & Full-Stack</summary>
+<details open>
+<summary><b>🧠&nbsp; Quiz Generator</b> — AI-Powered Quiz Platform</summary>
 <br>
 
-AI quiz platform generating structured MCQs by topic, difficulty, and language.
+An AI quiz platform that generates multiple-choice quizzes by topic, difficulty, language and question count using the Google Gemini API.
+
+- **Secure auth:** JWT authentication with bcrypt
+- **Data layer:** SQLite + Sequelize for users, quizzes, attempts, scores and history
+- **Engagement:** quiz editing, leaderboards, and performance stats (filter by difficulty/language, average and best scores)
 
 | Stack | Scale | Impact |
 |---|---|---|
-| Next.js, Node.js, Express, Sequelize, SQLite, Gemini | JWT auth, attempts, leaderboards | Full REST API for quiz lifecycle |
+| Next.js, React, Node.js, Express, Google Gemini, SQLite, Sequelize, JWT | Full quiz lifecycle with attempts and history | Leaderboards and score tracking |
+
+🔗 [Repository](https://github.com/HimanshuChauhan2027/REPO_NAME)
 
 </details>
 
@@ -122,20 +115,10 @@ AI quiz platform generating structured MCQs by topic, difficulty, and language.
 
 | 🏆 | 🥇 | 🥈 | 🎖️ |
 |:---:|:---:|:---:|:---:|
-| **1000+** DSA Problems | **Global Rank 76** | **Global Rank 181** | **2nd Place** |
-| LeetCode + Codeforces | CodeChef Starters 200 | Codeforces Round 1057 | Anant Coders Carnival |
+| **800+** DSA Problems | **Global Rank 76** | **Global Rank 181** | **2nd Place** |
+| LeetCode + Codeforces | CodeChef Starters 200 | Codeforces Round 1057 (Div. 2) | Anant Coders Carnival |
 
 **Codeforces Specialist** · Rating 1575
-
-</div>
-
-<br>
-
-![ACTIVITY](https://img.shields.io/badge/ACTIVITY-FF7A45?style=for-the-badge&logoColor=161B22)
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimanshuChauhan2027&bg_color=161B22&color=FF7A45&line=FFB86B&point=c9d1d9&area=true&hide_border=true)
 
 </div>
 
@@ -145,8 +128,6 @@ AI quiz platform generating structured MCQs by topic, difficulty, and language.
 
 <a href="mailto:chauhanhappy2027@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FF7A45" /></a>
 <a href="https://github.com/HimanshuChauhan2027"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=FF7A45" /></a>
-
-<i>"Optimized solutions, one commit at a time."</i>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=110&section=footer)
 
