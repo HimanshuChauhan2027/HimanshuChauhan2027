@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=210&section=header&text=HIMANSHU%20CHAUHAN&fontSize=46&fontColor=FF7A45&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20%C2%B7%20Generative%20AI&descAlignY=55&descColor=FFB86B&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=210&section=header&text=HIMANSHU%20CHAUHAN&fontSize=46&fontColor=FF7A45&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Full-Stack&descAlignY=55&descColor=FFB86B&animation=fadeIn)
 
 <a href="mailto:chauhanhappy2027@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FF7A45" /></a>
 <a href="https://github.com/HimanshuChauhan2027"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=FF7A45" /></a>
@@ -17,13 +17,13 @@
 <tr>
 <td width="60%" valign="top">
 
-Final-year B.Tech student building real-time backend systems, full-stack platforms and AI-powered applications. Competitive programmer with **800+ DSA problems solved** and a **Codeforces Specialist** rating, I care about systems that run fast and read clean.
+I'm a final-year B.Tech Mathematics & Computing student at NIT Kurukshetra with a strong foundation in data structures, algorithms and software development. I build backend-heavy, full-stack systems and AI-powered applications, from real-time bidding with concurrency-safe transactions to RAG pipelines for document Q&A.
 
-```yaml
-role:     Full-Stack Developer
-focus:    Backend · Real-Time Systems · Generative AI / RAG
-open_to:  Software Engineering opportunities
-```
+- **Software Development:** React, Node.js, Express and MongoDB, with Redis, BullMQ and Socket.IO for real-time, concurrent workloads. I load-test what I build (k6, 150 concurrent users, 0% failures).
+- **AI / Generative AI:** LLMs, embeddings, FAISS semantic search and LangChain, with multi-model fallback for reliable answers.
+- **Problem Solving:** 800+ DSA problems solved across LeetCode and Codeforces, Codeforces Specialist (1575).
+
+I'm looking for **Software Development and AI roles** where I can build and ship reliable products.
 
 </td>
 <td width="40%" valign="top">
@@ -67,7 +67,6 @@ A real-time auction platform with auction creation, live bidding and instant bid
 |---|---|---|
 | React, Node.js, Express, MongoDB, Socket.IO, Redis, BullMQ, Cloudinary, k6 | 150 concurrent users, ~2,400 requests | 0% HTTP request failures |
 
-🔗 [Repository](https://github.com/HimanshuChauhan2027/REPO_NAME)
 
 </details>
 
@@ -85,7 +84,6 @@ A PDF question-answering system that gives context-aware answers with document a
 |---|---|---|
 | Python, LangChain, Streamlit, FAISS, Hugging Face, PyMuPDF, Groq/Gemini | Top-K retrieval over document chunks | Source-cited, page-level answers |
 
-🔗 [Repository](https://github.com/HimanshuChauhan2027/REPO_NAME)
 
 </details>
 
@@ -103,7 +101,6 @@ An AI quiz platform that generates multiple-choice quizzes by topic, difficulty,
 |---|---|---|
 | Next.js, React, Node.js, Express, Google Gemini, SQLite, Sequelize, JWT | Full quiz lifecycle with attempts and history | Leaderboards and score tracking |
 
-🔗 [Repository](https://github.com/HimanshuChauhan2027/REPO_NAME)
 
 </details>
 
