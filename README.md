@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=210&section=header&text=HIMANSHU%20CHAUHAN&fontSize=46&fontColor=FF7A45&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Full-Stack&descAlignY=55&descColor=FFB86B&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=210&section=header&text=HIMANSHU%20CHAUHAN&fontSize=46&fontColor=FF7A45&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20AI%20Engineer&descAlignY=55&descColor=FFB86B&animation=fadeIn)
 
 <a href="mailto:chauhanhappy2027@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FF7A45" /></a>
 <a href="https://github.com/HimanshuChauhan2027"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=FF7A45" /></a>
@@ -13,28 +13,7 @@
 
 ![ABOUT](https://img.shields.io/badge/ABOUT-FF7A45?style=for-the-badge&logoColor=161B22)
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-I'm a final-year B.Tech Mathematics & Computing student at NIT Kurukshetra with a strong foundation in data structures, algorithms and software development. I build backend-heavy, full-stack systems and AI-powered applications, from real-time bidding with concurrency-safe transactions to RAG pipelines for document Q&A.
-
-- **Software Development:** React, Node.js, Express and MongoDB, with Redis, BullMQ and Socket.IO for real-time, concurrent workloads. I load-test what I build (k6, 150 concurrent users, 0% failures).
-- **AI / Generative AI:** LLMs, embeddings, FAISS semantic search and LangChain, with multi-model fallback for reliable answers.
-- **Problem Solving:** 800+ DSA problems solved across LeetCode and Codeforces, Codeforces Specialist (1575).
-
-I'm looking for **Software Development and AI roles** where I can build and ship reliable products.
-
-</td>
-<td width="40%" valign="top">
-
-**Currently**
-- 🧠 Learning production-grade RAG pipeline design
-- 🔭 Exploring distributed systems and the full-stack × GenAI intersection
-
-</td>
-</tr>
-</table>
+I'm a final-year B.Tech Mathematics & Computing student at NIT Kurukshetra with a strong foundation in data structures, algorithms and software development. I build backend-heavy systems and AI-powered applications, from real-time bidding with concurrency-safe MongoDB transactions, load-tested with k6 at 150 concurrent users with 0% failures, to RAG pipelines that answer questions from documents using embeddings, FAISS and LLMs with model fallback. I've solved 800+ DSA problems across LeetCode and Codeforces and hold a Codeforces Specialist rating (1575). I'm looking for Software Development and AI roles where I can build and ship reliable products.
 
 <br>
 
