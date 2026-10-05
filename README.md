@@ -1,110 +1,73 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Himanshu Chauhan</h1>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=210&section=header&text=HIMANSHU%20CHAUHAN&fontSize=46&fontColor=FF7A45&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20AI%20Engineer&descAlignY=55&descColor=FFB86B&animation=fadeIn)
+<h3 align="center">Software Developer & AI Engineer | Mathematics & Computing @ NIT Kurukshetra</h3>
 
+<p align="center">Building real-time backend systems and RAG-based AI applications with Node.js, Python and FastAPI</p>
+
+<p align="center">
 <a href="mailto:chauhanhappy2027@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FF7A45" /></a>
 <a href="https://github.com/HimanshuChauhan2027"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=FF7A45" /></a>
+</p>
 
-<sub>◆ NIT Kurukshetra &nbsp;|&nbsp; ◆ B.Tech Mathematics & Computing &nbsp;|&nbsp; ◆ Class of 2027</sub>
+---
 
-</div>
+## 🚀 About Me
 
-<br>
+- 🎓 B.Tech in Mathematics & Computing @ NIT Kurukshetra — CGPA: 8.94
+- 🤖 Interested in Backend Engineering, Generative AI & Distributed Systems
+- 🧠 Building applications using LLMs, RAG, LangChain & FAISS
+- ⚙️ Developing real-time, concurrency-safe backends with Node.js, MongoDB, Redis & Socket.IO
+- 💻 Strong foundation in Data Structures & Algorithms — 800+ problems solved, Codeforces Specialist (1575)
+- 🌱 Currently exploring production-grade RAG pipelines & distributed systems
+- 🎯 Looking for **Software Development and AI roles**
 
-![ABOUT](https://img.shields.io/badge/ABOUT-FF7A45?style=for-the-badge&logoColor=161B22)
+---
 
-I'm a final-year B.Tech Mathematics & Computing student at NIT Kurukshetra with a strong foundation in data structures, algorithms and software development. I build backend-heavy systems and AI-powered applications, from real-time bidding with concurrency-safe MongoDB transactions, load-tested with k6 at 150 concurrent users with 0% failures, to RAG pipelines that answer questions from documents using embeddings, FAISS and LLMs with model fallback. I've solved 800+ DSA problems across LeetCode and Codeforces and hold a Codeforces Specialist rating (1575). I'm looking for Software Development and AI roles where I can build and ship reliable products.
+## 🛠️ Tech Stack
 
-<br>
+- **Languages:** <img src="https://skillicons.dev/icons?i=js,py,cpp,java,c" />
+- **Web & Backend:** <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,html,css" />
+- **Databases:** <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres,sqlite" />
+- **AI / ML:** <img src="https://skillicons.dev/icons?i=tensorflow" /> LLMs · RAG · Embeddings · FAISS · LangChain
+- **Tools:** <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 
-![TECH STACK](https://img.shields.io/badge/TECH%20STACK-FF7A45?style=for-the-badge&logoColor=161B22)
+---
 
-<table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=js,py,cpp,java,c" /></td></tr>
-<tr><td><b>Web Dev</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,html,css" /></td></tr>
-<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres,sqlite" /></td></tr>
-<tr><td><b>AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=tensorflow" /> &nbsp;LLMs · RAG · Embeddings · FAISS · LangChain</td></tr>
-<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" /></td></tr>
-</table>
+## 📂 Featured Projects
 
-<br>
+### 🔨 BidMate — Real-Time Auction & Bidding Platform
+- Live bidding with **Socket.IO**, synchronizing bid changes instantly across users
+- **Proxy bidding and anti-sniping** built on MongoDB transactions to handle concurrent bids and keep auction state consistent
+- Auction lifecycle managed with **BullMQ and Redis**
+- Load-tested with **k6**: 150 concurrent users, ~2,400 HTTP requests, **0% failures**
+- **Stack:** React, Node.js, Express, MongoDB, Socket.IO, Redis, BullMQ, Cloudinary, k6
 
-![FEATURED PROJECTS](https://img.shields.io/badge/FEATURED%20PROJECTS-FF7A45?style=for-the-badge&logoColor=161B22)
+### 📄 DocQuery — RAG-Based Document Q&A System
+- Context-aware answers from PDFs with **document and page-level source references**
+- Semantic search using Hugging Face **all-mpnet-base-v2** embeddings and **FAISS** Top-K retrieval
+- PyMuPDF parsing, recursive chunking and Groq/Gemini LLMs with **automatic model fallback**
+- **Stack:** Python, LangChain, Streamlit, FAISS, Hugging Face, PyMuPDF, Groq/Gemini
 
-<details open>
-<summary><b>🔨&nbsp; BidMate</b> — Real-Time Auction & Bidding Platform</summary>
-<br>
+### 🧠 Quiz Generator — AI-Powered Quiz Platform
+- Generates multiple-choice quizzes by topic, difficulty, language and question count using the **Gemini API**
+- **JWT authentication with bcrypt**, with SQLite/Sequelize storing users, quizzes, attempts, scores and history
+- Quiz editing, leaderboards and performance statistics
+- **Stack:** Next.js, React, Node.js, Express, Google Gemini, SQLite, Sequelize, JWT
 
-A real-time auction platform with auction creation, live bidding and instant bid updates synchronized across users.
+---
 
-- **Live bidding:** Socket.IO keeps bid changes in sync for every connected user
-- **Concurrency-safe:** proxy bidding and anti-sniping built on MongoDB transactions, so concurrent bids never corrupt auction state
-- **Auction lifecycle:** scheduled and managed with BullMQ and Redis
-- **Load-tested with k6:** 150 concurrent users, ~2,400 HTTP requests, 0% failures, 100% successful checks
+## 🏆 Achievements
 
-| Stack | Scale | Impact |
-|---|---|---|
-| React, Node.js, Express, MongoDB, Socket.IO, Redis, BullMQ, Cloudinary, k6 | 150 concurrent users, ~2,400 requests | 0% HTTP request failures |
+- 🧩 **800+** DSA problems solved on LeetCode and Codeforces
+- ⭐ **Specialist** on Codeforces — Rating 1575
+- 🥇 **Global Rank 76** — CodeChef Starters 200
+- 🥈 **Global Rank 181** — Codeforces Round 1057 (Div. 2)
+- 🎖️ **2nd Place** — Anant Coders Carnival, Phase-2
 
+---
 
-</details>
+## 📫 Connect With Me
 
-<details open>
-<summary><b>📄&nbsp; DocQuery</b> — RAG-Based Document Q&A System</summary>
-<br>
-
-A PDF question-answering system that gives context-aware answers with document and page-level source references.
-
-- **Semantic search:** Hugging Face `all-mpnet-base-v2` embeddings with FAISS similarity search to retrieve the Top-K relevant chunks
-- **End-to-end pipeline:** PyMuPDF parsing, recursive text chunking, then answer generation with Groq/Gemini LLMs
-- **Reliable:** automatic model fallback between LLM providers
-
-| Stack | Scale | Impact |
-|---|---|---|
-| Python, LangChain, Streamlit, FAISS, Hugging Face, PyMuPDF, Groq/Gemini | Top-K retrieval over document chunks | Source-cited, page-level answers |
-
-
-</details>
-
-<details open>
-<summary><b>🧠&nbsp; Quiz Generator</b> — AI-Powered Quiz Platform</summary>
-<br>
-
-An AI quiz platform that generates multiple-choice quizzes by topic, difficulty, language and question count using the Google Gemini API.
-
-- **Secure auth:** JWT authentication with bcrypt
-- **Data layer:** SQLite + Sequelize for users, quizzes, attempts, scores and history
-- **Engagement:** quiz editing, leaderboards, and performance stats (filter by difficulty/language, average and best scores)
-
-| Stack | Scale | Impact |
-|---|---|---|
-| Next.js, React, Node.js, Express, Google Gemini, SQLite, Sequelize, JWT | Full quiz lifecycle with attempts and history | Leaderboards and score tracking |
-
-
-</details>
-
-<br>
-
-![ACHIEVEMENTS](https://img.shields.io/badge/ACHIEVEMENTS-FF7A45?style=for-the-badge&logoColor=161B22)
-
-<div align="center">
-
-| 🏆 | 🥇 | 🥈 | 🎖️ |
-|:---:|:---:|:---:|:---:|
-| **800+** DSA Problems | **Global Rank 76** | **Global Rank 181** | **2nd Place** |
-| LeetCode + Codeforces | CodeChef Starters 200 | Codeforces Round 1057 (Div. 2) | Anant Coders Carnival |
-
-**Codeforces Specialist** · Rating 1575
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="mailto:chauhanhappy2027@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FF7A45" /></a>
-<a href="https://github.com/HimanshuChauhan2027"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=FF7A45" /></a>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:FF7A45&height=110&section=footer)
-
-</div>
+- 📧 chauhanhappy2027@gmail.com
+- 🐙 [github.com/HimanshuChauhan2027](https://github.com/HimanshuChauhan2027)
+- 
