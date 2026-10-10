@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Mathematics & Computing @ NIT Kurukshetra — CGPA: 8.94
+- 🎓 B.Tech in Mathematics & Computing @ NIT Kurukshetra — CGPA: 9.05
 - 🤖 Interested in Backend Engineering, Generative AI & Distributed Systems
 - 🧠 Building applications using LLMs, RAG, LangChain & FAISS
 - ⚙️ Developing real-time, concurrency-safe backends with Node.js, MongoDB, Redis & Socket.IO
